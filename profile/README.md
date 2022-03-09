@@ -7,4 +7,5 @@
 <!-- Start of README -->
 ![header]
 
-Dies ist die GitHub Organisation von [ExpanseHost.de][website].  
+This is the GitHub Organisation of [ExpanseHost.de][website].
+The Organisation contains various open source projects. We're always happy about contributions, so feel free to submit PRs to help us improve.
